@@ -4,5 +4,11 @@ This repsository contains three notebooks outlining a complete modelling process
 - Data Adminastration and Analysis [DATA H2001](https://www.tudublin.ie/study/modules/data-h2001-data-administration-and-analysis/)
 - Logic and Problem Solving [LOGC H3001](https://www.tudublin.ie/study/modules/logc-h3001-logic-and-problem-solving/)
 
-## Actor Critic Model ([actor_critic.ipynb](actor_critic.ipynb))
+## Actor Critic Model ([Actor_Critic.ipynb](Actor_Critic.ipynb))
 This model etc 
+
+## Statistical Analysis ([Statistical_Analysis.ipynb](Statistical_Analysis.ipynb))
+This outlines 
+
+## Data Preprocessing ([Data_Preprocessing.ipynb](Data_Preprocessing.ipynb))
+This outlines 
