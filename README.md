@@ -1,6 +1,6 @@
 # Statistics and Data Science
 This repsository contains three notebooks outlining a complete modelling process from statistical analysis, data preprocessing and model building. It is intended to display my understanding of the core learning outcomes of the modules:
-- Statistics 1 [STAT H1003](https://www.tudublin.ie/study/modules/stat-h1003-statistics/)
+- Statistics [STAT H1003](https://www.tudublin.ie/study/modules/stat-h1003-statistics/)
 - Data Adminastration and Analysis [DATA H2001](https://www.tudublin.ie/study/modules/data-h2001-data-administration-and-analysis/)
 - Logic and Problem Solving [LOGC H3001](https://www.tudublin.ie/study/modules/logc-h3001-logic-and-problem-solving/)
 
