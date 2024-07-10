@@ -11,7 +11,7 @@ The key aspect in which this approach differs from the current approaches is the
 
 My approach is to force the agent to “buy/sell” and then decide on the optimal trading strategy with the goal of maximising returns. The agent chooses from an action list of percentage changes which represent when the agent would like to exit. This is done to more closely resemble the process a trader follows.
 
-While the actor model learns the optimal action, the critic model learns the value function. The value function will represent the expected cumulative reward, starting in this state, following the optimal policy. Once the model is sufficiently accurate we can use the critic value to generate alphas by inputing current stock prices and flagging stocks that have a forecasted value of >0.
+While the actor model learns the optimal action, the critic model learns the value function. The value function outputs a value which represents the expected cumulative reward, starting in this state, following the optimal policy. Once the model is sufficiently accurate we can use the critic value to generate alphas by inputing current stock prices and flagging stocks that have a forecasted value of >0.
 
 This model was built using no reinforcement learning library’s with all the required functions being written directly. 
 
